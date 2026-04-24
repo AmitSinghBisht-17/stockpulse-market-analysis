@@ -1,0 +1,5 @@
+{
+  "name": "StockPulse: Market Analysis & Prediction",
+  "description": "A production-ready stock market analysis system featuring EDA, PCA, and predictive modeling.",
+  "requestFramePermissions": []
+}
